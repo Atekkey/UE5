@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
 				"/Users/anandtekkey/Desktop/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
 			]
 		}
