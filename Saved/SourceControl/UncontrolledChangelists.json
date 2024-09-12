@@ -10,6 +10,12 @@
 				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/UI/WBP_Health.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Blueprints/BP_Healthpack.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Materials/M_RedPack.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Materials/m_WhitePack.uasset",
+				"C:/Users/ajatt/CodingFolder/UE5/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
 				"/Users/anandtekkey/Desktop/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
 			]
 		}
